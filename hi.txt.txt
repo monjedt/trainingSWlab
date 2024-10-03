@@ -1,0 +1,7 @@
+monjed
+git init 
+git status
+git add .
+git commit -m "first message"
+git remote add origin https://github.com/monjedt/trainingSWlab.git
+git push -u origin main
